@@ -6,6 +6,7 @@
 - 💞️ Looking to collaborate on smart contracts and machine learning projects 
 - 🛠️ Working on a stock market portfolio recommender/balancer
 - 📫 Reach me: ssrihari2002@gmail.com
+![](https://github.com/Srihari293/github-stats/blob/master/generated/overview.svg)
 
 <!---
 Srihari293/Srihari293 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
